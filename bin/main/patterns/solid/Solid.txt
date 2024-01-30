@@ -1,0 +1,10 @@
+Single Responsibility - this principle states that a class should only have one responsibility.
+Open/Closed - this principle states that the classes should be open for extension but closed for modification.
+Liskov Substitution - this principle states that superclass should be replaceable with objects of its subclasses without disrupting the behavior of the program. 
+Interface Segregation - this principle states that larger interfaces should be split into  smaller ones that clients should not be forced to depend on methods they do not use.
+Dependency Inversion
+
+S.O.L.I.D.
+
+Design principles encourage us to create more maintainable, understandable, and flexible software.
+When applications grow in size, we can reduce their complexity and save ourselves a lot of time.
